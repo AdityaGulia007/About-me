@@ -20,8 +20,8 @@ Linux, Windows, PowerShell, AWS, Jira, Wireshark, Wazuh, Microsoft Azure Active 
 
 ## Projects
 <ul>
-  <li><b>Honeypot Project</b></li>
-  <li><b>Active Directory Project</b></li>
-  <li><b>OTA Firmware Update Server Project - Capstone Team Project</b></li>
+  <li>Honeypot Project</li>
+  <li>Active Directory Project</li>
+  <li>OTA Firmware Update Server Project - Capstone Team Project</li>
 </ul>
 
