@@ -1,29 +1,13 @@
 # Hello, I'm Aditya
 <a href="https://www.linkedin.com/in/aditya-gulia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an aspiring cybersecurity professional and postgraduate student at St. Clair College, with certifications like Google Cybersecurity, CompTIA Security+, and AWS Cloud Practitioner and other hands on certs. With hands-on experience in IT support, i am passionate about becoming a SOC Analyst and advancing in the cybersecurity field.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To leverage my strong foundation so that i can contribute to an organization's security initiatives, while continuously growing my skills and expertise as I pursue my goal of becoming a SOC Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Linux, Windows, PowerShell, AWS, Jira, Wireshark, Wazuh, Microsoft Azure Active Directory,  MITRE ATT&CK, Malware Analysis, Log Analysis, Security Information and Event Management (SIEM) Splunk, Incident Detection systems (IDS) Suricata, Endpoint Detection and Response (EDR), Networking Protocols: TCP/IP, OSI Model, Routing, Switching, Microsoft Office, ISO 27001, ISO 27002, Agile methodology
 
 ### Network
 <div>
