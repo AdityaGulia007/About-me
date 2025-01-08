@@ -20,7 +20,7 @@ Linux, Windows, PowerShell, AWS, Jira, Wireshark, Wazuh, Microsoft Azure Active 
 
 ## Projects
 <ul>
-  <li>Honeypot Project</li>
+  <li><a href = "https://github.com/AdityaGulia007/Honeypot-Project/tree/main">Honeypot Project</a></li>
   <li>Active Directory Project</li>
   <li>OTA Firmware Update Server Project - Capstone Team Project</li>
 </ul>
