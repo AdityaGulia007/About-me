@@ -15,7 +15,6 @@ Linux, Windows, PowerShell, AWS, Jira, Wireshark, Wazuh, Microsoft Azure Active 
 <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-LetsDefend%20Certificate-2D8CFF?&style=for-the-badge&logo=LetsDefend&logoColor=white" />
-<img src="https://img.shields.io/badge/-TryHackMe%20Certificate-231F20?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
 ## Projects
