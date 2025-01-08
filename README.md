@@ -7,7 +7,7 @@ I am an aspiring cybersecurity professional and postgraduate student at St. Clai
 To leverage my strong foundation so that i can contribute to an organization's security initiatives, while continuously growing my skills and expertise as I pursue my goal of becoming a SOC Analyst.
 
 ## Skills
-Linux, Windows, PowerShell, AWS, Jira, Wireshark, Wazuh, Microsoft Azure Active Directory,  MITRE ATT&CK, Malware Analysis, Log Analysis, Security Information and Event Management (SIEM) Splunk, Incident Detection systems (IDS) Suricata, Endpoint Detection and Response (EDR), Networking Protocols: TCP/IP, OSI Model, Routing, Switching, Microsoft Office, ISO 27001, ISO 27002, Agile methodology
+Linux, Windows, PowerShell, AWS(Basic), Jira, Wireshark, Wazuh, Microsoft Azure Active Directory,  MITRE ATT&CK, Malware Analysis, Log Analysis, Security Information and Event Management (SIEM) Splunk, Incident Detection systems (IDS) Suricata, Endpoint Detection and Response (EDR), Networking Protocols: TCP/IP, OSI Model, Routing, Switching, Microsoft Office, ISO 27001, ISO 27002, Agile methodology
 
 ## Certifications
 <div>
