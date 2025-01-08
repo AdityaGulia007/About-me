@@ -1,4 +1,4 @@
-# Hello, I'm Aditya
+# Hello, I'm Aditya Gulia
 <a href="https://www.linkedin.com/in/aditya-gulia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an aspiring cybersecurity professional and postgraduate student at St. Clair College, with certifications like Google Cybersecurity, CompTIA Security+, and AWS Cloud Practitioner and other hands on certs. With hands-on experience in IT support, i am passionate about becoming a SOC Analyst and advancing in the cybersecurity field.
